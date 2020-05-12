@@ -16,7 +16,7 @@ Desenvolver uma aplicação de gerenciamento de clientes de coworking, com auten
 
 Você devera entregar uma versao da aplicacao em PHP/Laravel e outra em Node.js. Voce pode optar por usar interface sincrona ou assincrona conforme sua preferencia.
 
-Cada versao devera ser um fork privado deste repositorio, convidando o usuario ctg325.
+Crie um repositorio privado para cada versao e convide o usuario ctg325.
 
 Descrever no arquivo README.md uma explicacao das suas solucoes.
 
